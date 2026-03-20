@@ -1,4 +1,4 @@
-package nt21.BaiTH3_LinearLayOut01;
+package th3.kimhien.baith3_linearlayout01;
 
 import org.junit.Test;
 
